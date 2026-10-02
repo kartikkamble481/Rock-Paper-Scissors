@@ -66,10 +66,11 @@ img {
 
 #msg{
     margin-top:5rem;
-    background-color:blue;
+    background-color:rgb(40, 40, 50);
     color:white;
     font-size:2rem;
     display: inline;
     padding:1rem;
     border-radius:5rem;
 }
+
